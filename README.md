@@ -1,15 +1,15 @@
 # hello-world
 JAR = just another repository (short description following "Read the Guide"). 
 
-# Aplicativo de identificao de digitos escritos manualmente.
+# Aplicativo de identifica&ccedil;&atilde;o de d&iacute;gitos escritos manualmente.
 
 ## [Demo Online](https://flask-mnist.herokuapp.com/)
 
 ## Instalacao
 
-Clone o repositÃƒÂ³rio ou baixe o pacote zip.
+Clone o reposit&oacute;rio ou baixe o pacote zip.
 
-Instale os pacotes necessÃƒÂ¡rios:
+Instale os pacotes necess&aacute;rios:
 
 ```bash
 $ pip install -r requirements.txt
